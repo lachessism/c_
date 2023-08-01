@@ -1,0 +1,5 @@
+﻿  test.c
+F:\code\test.7.24\test.7.24\test.c(66,17): warning C4474: printf: 格式字符串中传递的参数太多
+F:\code\test.7.24\test.7.24\test.c(66,17): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+test.obj : error LNK2005: main 已经在 add.obj 中定义
+F:\code\test.7.24\x64\Debug\test.7.24.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
