@@ -1,0 +1,4 @@
+﻿  test.c
+F:\code\分支和循环语句\goto\goto\test.c(24,2): warning C4013: “system”未定义；假设外部返回 int
+F:\code\分支和循环语句\goto\goto\test.c(29,6): warning C4013: “strcmp”未定义；假设外部返回 int
+  goto.vcxproj -> F:\code\分支和循环语句\goto\x64\Debug\goto.exe
