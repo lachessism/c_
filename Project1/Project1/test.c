@@ -1,0 +1,1 @@
+#define _CRT_SECURE_N0_WARNINGS 1
